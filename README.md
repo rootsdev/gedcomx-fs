@@ -1,10 +1,9 @@
 Unoffical documentation of FamilySearch extensions to [GEDCOM X](http://www.gedcomx.org/).
 
 The are no official docs but we have the canonical [Java implementation](https://github.com/FamilySearch/gedcomx-java/tree/master/extensions/familysearch/familysearch-api-model/src/main/java/org/familysearch/platform)
-which is used to generate the [FamilySearch developer docs](https://familysearch.org/developers/docs/api/fs_json)
-The docs mix the FamilySearch extensions with the core GEDCOM X data model so we
-use the Java code to obtain a list of extensions but link to the
-developer docs for consumable documentation of the extensions.
+which is used to generate the [FamilySearch developer docs](https://familysearch.org/developers/docs/api/fs_json).
+We use the Java code to obtain a list of extensions but link to the developer 
+docs for consumable documentation.
 
 ## Data Types
 
