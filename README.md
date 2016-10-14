@@ -7,8 +7,7 @@ docs for consumable documentation.
 
 ## Data Types
 
-* [ArtifactMetadata](https://familysearch.org/developers/docs/api/fs/ArtifactMetadata_json)
-    * I don't know where this is used
+* [ArtifactMetadata](https://familysearch.org/developers/docs/api/fs/ArtifactMetadata_json) - I don't know where this is used
 * [ChangeInfo](https://familysearch.org/developers/docs/api/fs/ChangeInfo_json)
 * [ChildAndParentsRelationship](https://familysearch.org/developers/docs/api/fs/ChildAndParentsRelationship_json)
 * [Comment](https://familysearch.org/developers/docs/api/fs/Comment_json)
