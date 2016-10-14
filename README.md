@@ -8,6 +8,7 @@ docs for consumable documentation.
 ## Data Types
 
 * [ArtifactMetadata](https://familysearch.org/developers/docs/api/fs/ArtifactMetadata_json)
+    * I don't know where this is used
 * [ChangeInfo](https://familysearch.org/developers/docs/api/fs/ChangeInfo_json)
 * [ChildAndParentsRelationship](https://familysearch.org/developers/docs/api/fs/ChildAndParentsRelationship_json)
 * [Comment](https://familysearch.org/developers/docs/api/fs/Comment_json)
@@ -45,6 +46,7 @@ docs for consumable documentation.
 
 ## Enumerations
 
+* [artifactScreeningState](https://familysearch.org/developers/docs/api/fs/artifactScreeningState_json)
 * [changeObjectModifier](https://familysearch.org/developers/docs/api/fs/changeObjectModifier_json)
 * [changeObjectType](https://familysearch.org/developers/docs/api/fs/changeObjectType_json)
 * [changeOperation](https://familysearch.org/developers/docs/api/fs/changeOperation_json)
