@@ -7,29 +7,29 @@ docs for consumable documentation.
 
 ## Data Types
 
-* [ArtifactMetadata](https://familysearch.org/developers/docs/api/fs/ArtifactMetadata_json) - I don't know where this is used
-* [ChangeInfo](https://familysearch.org/developers/docs/api/fs/ChangeInfo_json)
-* [ChildAndParentsRelationship](https://familysearch.org/developers/docs/api/fs/ChildAndParentsRelationship_json)
-* [Comment](https://familysearch.org/developers/docs/api/fs/Comment_json)
-* [Discussion](https://familysearch.org/developers/docs/api/fs/Discussion_json)
-* [DiscussionReference](https://familysearch.org/developers/docs/api/fs/DiscussionReference_json)
-* [Error](https://familysearch.org/developers/docs/api/fs/Error_json)
-* [FeatureSet](https://familysearch.org/developers/docs/api/fs/FeatureSet_json)
-* [FeedbackInfo](https://familysearch.org/developers/docs/api/fs/FeedbackInfo_json)
-* [MatchInfo](https://familysearch.org/developers/docs/api/fs/MatchInfo_json)
-* [Merge](https://familysearch.org/developers/docs/api/fs/Merge_json)
-* [MergeAnalysis](https://familysearch.org/developers/docs/api/fs/MergeAnalysis_json)
-* [MergeConflict](https://familysearch.org/developers/docs/api/fs/MergeConflict_json)
-* [Ordinance](https://familysearch.org/developers/docs/api/fs/Ordinance_json)
-* [Reservation](https://familysearch.org/developers/docs/api/fs/Reservation_json)
-* [SearchInfo](https://familysearch.org/developers/docs/api/fs/SearchInfo_json)
-* [Tag](https://familysearch.org/developers/docs/api/fs/Tag_json)
-* [User](https://familysearch.org/developers/docs/api/fs/User_json)
-* [UserHistoryInfo](https://familysearch.org/developers/docs/api/fs/UserHistoryInfo_json) (Doesn't appear to be used)
+* [ArtifactMetadata](https://familysearch.org/developers/docs/api/types/json_ArtifactMetadata) - I don't know where this is used
+* [ChangeInfo](https://familysearch.org/developers/docs/api/types/json_ChangeInfo)
+* [ChildAndParentsRelationship](https://familysearch.org/developers/docs/api/types/json_ChildAndParentsRelationship)
+* [Comment](https://familysearch.org/developers/docs/api/types/json_Comment)
+* [Discussion](https://familysearch.org/developers/docs/api/types/json_Discussion)
+* [DiscussionReference](https://familysearch.org/developers/docs/api/types/json_DiscussionReference)
+* [Error](https://familysearch.org/developers/docs/api/types/json_Error)
+* [Feature](https://familysearch.org/developers/docs/api/types/json_Feature)
+* [FeedbackInfo](https://familysearch.org/developers/docs/api/types/json_FeedbackInfo)
+* [MatchInfo](https://familysearch.org/developers/docs/api/types/json_MatchInfo)
+* [Merge](https://familysearch.org/developers/docs/api/types/json_Merge)
+* [MergeAnalysis](https://familysearch.org/developers/docs/api/types/json_MergeAnalysis)
+* [MergeConflict](https://familysearch.org/developers/docs/api/types/json_MergeConflict)
+* [Ordinance](https://familysearch.org/developers/docs/api/types/json_Ordinance)
+* [Reservation](https://familysearch.org/developers/docs/api/types/json_Reservation)
+* [SearchInfo](https://familysearch.org/developers/docs/api/types/json_SearchInfo)
+* [Tag](https://familysearch.org/developers/docs/api/types/json_Tag)
+* [User](https://familysearch.org/developers/docs/api/types/json_User)
+* [UserHistoryInfo](https://familysearch.org/developers/docs/api/types/json_UserHistoryInfo) (Doesn't appear to be used)
 
 ## Property Extensions
 
-* [Gedcomx](https://familysearch.org/developers/docs/api/fs/FamilySearch_json) - Referred to in the docs as FamilySearch, a class which extends GedcomX.
+* [Gedcomx](https://familysearch.org/developers/docs/api/types/json_FamilySearchPlatform) - Referred to in the docs as FamilySearch, a class which extends GedcomX.
   * childAndParentsRelationships
   * discussions
   * users
@@ -45,9 +45,9 @@ docs for consumable documentation.
 
 ## Enumerations
 
-* [artifactScreeningState](https://familysearch.org/developers/docs/api/fs/artifactScreeningState_json)
-* [changeObjectModifier](https://familysearch.org/developers/docs/api/fs/changeObjectModifier_json)
-* [changeObjectType](https://familysearch.org/developers/docs/api/fs/changeObjectType_json)
-* [changeOperation](https://familysearch.org/developers/docs/api/fs/changeOperation_json)
-* [matchStatus](https://familysearch.org/developers/docs/api/fs/matchStatus_json)
-* [ordinanceStatus](https://familysearch.org/developers/docs/api/fs/ordinanceStatus_json)
+* [artifactScreeningState](https://familysearch.org/developers/docs/api/types/xml_fs_artifactScreeningState)
+* [changeObjectModifier](https://familysearch.org/developers/docs/api/types/xml_fs_changeObjectModifier)
+* [changeObjectType](https://familysearch.org/developers/docs/api/types/xml_fs_changeObjectType)
+* [changeOperation](https://familysearch.org/developers/docs/api/types/xml_fs_changeOperation)
+* [matchStatus](https://familysearch.org/developers/docs/api/types/xml_fs_matchStatus)
+* [ordinanceStatus](https://familysearch.org/developers/docs/api/types/xml_fs_ordinanceStatus)
