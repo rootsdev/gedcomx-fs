@@ -1,3 +1,9 @@
+# The [official spec](https://github.com/FamilySearch/gedcomx-familysearch-extensions/blob/master/specifications/gedcomx-familysearch-specification.md) is now published.
+
+The information below will not be maintained.
+
+-----------
+
 Unoffical documentation of FamilySearch extensions to [GEDCOM X](http://www.gedcomx.org/).
 
 The are no official docs but we have the canonical [Java implementation](https://github.com/FamilySearch/gedcomx-java/tree/master/extensions/familysearch/familysearch-api-model/src/main/java/org/familysearch/platform)
